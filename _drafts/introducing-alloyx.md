@@ -4,7 +4,7 @@ title: Introducing AlloyX
 author: Scott Motte
 ---
 
-AlloyX helps you protect your hard earned wealth, so you can feel more confident in your future. It rounds up your spare change and converts it to real physical gold, one of the world's greatest hedges.
+AlloyX helps protect your hard earned wealth, so you can feel more confident in your future. It rounds up your spare change and converts it to real physical gold, one of the world's greatest hedges.
 
 #### Millennials Don't Buy Gold
 
@@ -14,7 +14,7 @@ So why don't they buy gold?
 
 #### It Is Difficult
 
-It is way too difficult. I should know. I'm a millennial, and I've tried. It's easier to purchase obscure cryptocurrencies like dogecoin, than it is to invest in gold.
+It is way too difficult. I should know. I'm a millennial, and I've tried. It's easier to purchase obscure cryptocurrencies like Dogecoin, than it is to invest in gold.
 
 * It's slow
 * It's expensive
@@ -27,20 +27,22 @@ When you have finally saved that much, you have only 2 options for purchasing in
 1. Physically visit a gold shop
 2. Navigate archaic e-commerce websites
 
-##### Gold shop
+##### Physically visit a gold shop
 
 If you choose the shop option, you have to withdraw $1,300.00 in cash and carry it on your person. Many shops will not accept a debit card payment. And when they do, they will hold your bar for a week (or more) while the payment fully clears. So now you're left waiting another week for your gold bar and paying another visit to the shop. Finally, shops have higher fees because they have high overhead, like rent, to pay.
 
-##### E-commerce website
+##### Navigate archaic e-commerce websites
 
+If you choose the e-commerce option, you will be bombarded with options. Thousands of different products. Bars, rounds, secondary markets, collectibles, holiday-themed coins, gold grain, etc. Navigation is bad, and the majority of the options are designed to make the website more money rather than help you invest in gold. Once you do find investment-grade bars at a good price, you still have to go through the payment process. 
 
+Many gold e-commerce sites do not accept credit cards. If they do, they typically charge an additional 4% or greater fee. To avoid that fee, you have two options, pay by check or a wire. Yes, literally mail a check. Do you even have checks? This will cost you a lot of time too. Once the check does arrive, which could take days in the mail, then the e-commerce store will hold it for another 4 days (or more) to verify payment. Alternatively, you can pay by wire but this often requires calling up your bank, configuring the wire details (don't get them wrong or your money is gone forever), and paying $20-$40 just to send the wire.
 
-Buying gold requqires multi-day payment approval times and multi-day delivery times. Sometimes it drags into a week or more. Then you must save $1,300, up front, to purchase a standard 1oz bar. You must physically visit a shop or navigate archaic e-commerce sites.
+##### Do you see how difficult this is?
 
-This isn't right. Investing in a hedge for your investments should be as easy as investing in your other investments. Investing in a straightforward investment like gold should be equally straightforward.
+The process is terribly difficult. It takes days to weeks. There is no app. There is no automation. There is no customer service.
+
+It shouldn't be this way. Investing in a hedge for your investments should be as easy as investing in your other investments. Gold is a straightforward investment, investing in it should be too.
 
 So I went to work on a solution. Something that would be fast, affordable, and effortless.
 
-#### It could be easier
-
-#### Now it is easier
+#### AlloyX Makes It Easy

@@ -3,13 +3,22 @@ layout: default
 title: AlloyX Blog
 ---
 
-<h1>{{ "AlloyX Blog" | downcase }}</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 offset-md-2 px-4 mb-5">
+      <article>
+        <h1 class="h4">Blog posts</h1>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+        {% for post in site.posts %}
+          <h2>
+            <a href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+          </h2>
+
+          <p>{{ post.excerpt }}</p>
+        {% endfor %}
+      </article>
+    </div>
+  </div>
+</div>

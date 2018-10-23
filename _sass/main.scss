@@ -1,96 +1,138 @@
-body, html {
-  height: 100%;
-  color: #2C3C45;
+@import "colors";
+
+:root {
   font-size: 16px;
 }
 
-html {
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-  overflow-x: hidden;
-}
-
-body {
-  font-family: Times, "Times New Roman", serif;
-  font-family: "Courier New", monospace;
+html, body {
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1rem;
-  line-height: 1rem;
-  margin: 0;
-  background: #EBE5D9;
-  background: #FFFFFF;
-  padding: 1rem;
-  border-top: 3px solid #FDDFC4;
-}
-
-.underline {
-  text-decoration: underline;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.text-right {
-  text-align: right;
-}
-
-p {
-  line-height: 2.0rem;
-}
-
-.headshot-component {
-  margin: 0 auto;
-  text-align: center;
-}
-
-/* page-component */
-table.page-component {
-  /*border: 1px solid #2C3C45;*/
-  margin: 0 auto;
   height: 100%;
-  background: #fff;
+  -webkit-font-smoothing: antialiased;
 }
 
-table.page-component td {
-  padding: 2.0rem;
-  padding-right: 8rem;
-  padding-left: 8rem;
+h1, h2, h3, .h1, .h2, .h3 {
+  font-weight: bold;
+  letter-spacing: -1px;
 }
 
-/* letterhead-component */
-.letterhead-component {
-  text-align: center;
+p, ol, ul {
+  color: $black-lightened;
 }
 
-.letterhead-component img {
-  width: 14rem;
+mark {
+  background-color: $yellow;
 }
 
-.wheat-component {
-  margin: 0 auto;
-  width: 80px;
+small, .small {
+  color: $gray-darkened;
+
+  a {
+    color: $gray-darkened;
+    text-decoration: underline;
+  }
 }
 
-@page {
-  size: A4;
+.more::after {
+  display: inline-block;
+  content: '›';
+  padding-left: .3rem;
+  text-decoration: none;
+}
+
+// https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/
+.text-wrap {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+// fade-in
+.fade-me {
+  opacity: 0;
+}
+.fade-me.fade-in {
+  opacity: 1;
+}
+
+.fade-in {
+  animation: fadein 2s;
+  -moz-animation: fadein 2s; /* Firefox */
+  -webkit-animation: fadein 2s; /* Safari and Chrome */
+  -o-animation: fadein 2s; /* Opera */
+}
+@keyframes fadein {
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-moz-keyframes fadein { /* Firefox */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity:1;
+  }
+}
+@-o-keyframes fadein { /* Opera */
+  from {
+    opacity:0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+hr {
+  border: none;
+  width: 100%;
+  height: 1px;
+  background: $gray;
   margin: 0;
 }
 
-@media print {
-  html, body {
-    width: 210mm;
-    height: 297mm;
-  }
+article {
+  font-size: 120%;
+}
 
-  body {
-    border-top: none;
-  }
+.borderless td, .borderless th {
+  border: none;
+}
 
-  footer {
-    position: absolute;
-    right: 0;
-    bottom: 25mm;
-    left: 0;
-    text-align: center;
+li.borderless {
+  border: none;
+
+  &:hover {
+    border: none;
   }
 }
+
+.pagination {
+  span {
+    padding: 0.5rem;
+  }
+}
+

@@ -6,37 +6,31 @@ title: Blog
 <div class="container">
   <div class="row">
     <div class="col-md-8 offset-md-2 px-4 mb-5">
-      <h1 class="text-center">Blog</h1>
+      <h1 class="text-center h3">Blog</h1>
 
       <p class="text-center">
-        Stories, ideas, and announcements related to gold, investing, and AlloyX.
+        Stories, ideas, and announcements related to gold, investing, and <a href="https://alloyx.co">AlloyX</a>.
       </p>
     </div>
   </div>
 
   <div class="row">
-    <div class="col-md-8 offset-md-2">
-      <div class="container">
-        <div class="row">
-          {% for post in site.posts %}
-            <div class="col-lg-6">
-              <article>
-                <div class="card mb-5">
-                  {% if post.hero %}
-                    <img class="card-img-top" src="{{ post.hero }}" alt="{{ post.title }}">
-                  {% endif %}
+    <div class="col-md-6 offset-md-3">
+      {% for post in site.posts %}
+        <article>
+          {% if post.hero %}
+            <a href="{{ post.url }}">
+              <img class="img-fluid mb-4" src="{{ post.hero }}" alt="{{ post.title }}">
+            </a>
+          {% endif %}
 
-                  <div class="card-body">
-                    <h5 class="card-title">{{ post.title }}</h5>
-                    <p class="card-text">{{ post.excerpt | truncate: 120 }}</p>
-                    <a href="{{ post.url }}" class="btn btn-primary">Read</a>
-                  </div>
-                </div>
-              </article>
-            </div>
-          {% endfor %}
-        </div>
-      </div>
+          <h2 class="h3 mb-4">{{ post.title }}</h2>
+
+          <p class="mb-4">{{ post.excerpt | truncate: 300 }}</p>
+
+          <a href="{{ post.url }}" class="btn btn-info btn-lg">Read</a>
+        </article>
+      {% endfor %}
     </div>
   </div>
 </div>

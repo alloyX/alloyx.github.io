@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+
+{% if page.hero %}
+<div class="container-fluid mb-5">
+  <div class="row text-center no-gutters">
+    <div class="col-lg-8 offset-lg-2 text-center">
+      <img src="{{page.hero}}" class="img-fluid"/>
+    </div>
+  </div>
+</div>
+{% endif %}
+
 <div class="container">
   <div class="row">
     <div class="col-md-8 offset-md-2 px-4 mb-5">

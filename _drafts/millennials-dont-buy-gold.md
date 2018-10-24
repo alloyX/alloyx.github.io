@@ -2,6 +2,7 @@
 layout: post
 title: Millennials Don't Buy Gold
 author: Scott Motte
+hero: '/assets/images/posts/millennials-dont-buy-gold.png'
 ---
 
 Millennials don't buy gold. Ask one at a coffee shop sometime. They will say they've never even thought about it. And yet, millennials are probably the most sophisticated financial generation ever. In the same breath, they will understand and talk about how gold makes a great hedge.

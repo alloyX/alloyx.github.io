@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Millennials Don't Buy Gold
+title: Introducing AlloyX
 author: Scott Motte
 ---
 

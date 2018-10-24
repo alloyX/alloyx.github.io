@@ -141,10 +141,37 @@ li.borderless {
   }
 }
 
+// added to blog only
+
 blockquote {
   font-size: 2.0rem;
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   font-style: italic;
   letter-spacing: -1px;
   line-height: 120%;
+}
+
+.link-unstyled {
+  &,
+  &:visited,
+  &:hover,
+  &:active,
+  &:focus,
+  &:active:hover {
+    font-style: inherit;
+    color: inherit;
+    background-color: transparent;
+    font-size: inherit;
+    text-decoration: none;
+    font-variant: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    border-radius: inherit;
+    border: inherit;
+    outline: inherit;
+    box-shadow: inherit;
+    padding: inherit;
+    vertical-align: inherit;
+  }
 }

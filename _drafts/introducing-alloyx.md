@@ -12,7 +12,7 @@ Millennials don't buy gold. Ask one at a coffee shop sometime. They will say the
 
 So why don't they buy gold?
 
-#### It Is Difficult
+#### It Is Too Difficult
 
 It is way too difficult. I should know. I'm a millennial, and I've tried. It's easier to purchase obscure cryptocurrencies like Dogecoin, than it is to invest in gold.
 
@@ -39,10 +39,28 @@ Many gold e-commerce sites do not accept credit cards. If they do, they typicall
 
 ##### Do you see how difficult this is?
 
-The process is terribly difficult. It takes days to weeks. There is no app. There is no automation. There is no customer service.
+The process is terribly difficult. It takes days to weeks. There is no app. There is no automation. There is no modernity.
 
 It shouldn't be this way. Investing in a hedge for your investments should be as easy as investing in your other investments. Gold is a straightforward investment, investing in it should be too.
+
+
 
 So I went to work on a solution. Something that would be fast, affordable, and effortless.
 
 #### AlloyX Makes It Easy
+
+The result of that effort is AlloyX. I built it for myself, then family members wanted in, then close friends. It has been growing ever since. It's designed for you, and it is designed to be the best way to buy gold in the world.
+
+AlloyX is on a mission to make it easy to invest in gold, so you can protect your wealth, and become more confident in your bright future.
+
+It's fast. It takes just minutes to sign up, link your bank account, and own real gold. It's effortless. Link your bank, spend normally, and own real gold. And it's affordable. You no longer need to save thousands of dollars. You can get started investing with as little as $5.
+
+You also get:
+
++ Unlimited Gold Withdraws
++ Unlimited Cash Withdraws
++ Free Shipping
++ Automated Investing
++ Maximum-Security Storage
++ Full Coverage Gold Insurance
++ No Account Minimums

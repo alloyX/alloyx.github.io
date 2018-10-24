@@ -58,7 +58,11 @@ But when it came to investing in gold, **there was no equivalent option**.
 
 I want to invest in gold to hedge my other investments. When the economy and market does poorly, gold tends to do well. Our economy has been booming. It's been more than 10 years since we had a downturn. We might be due for one.
 
-**Would you invest in gold if the process was easier? Would you hedge your other investments by owning some? I'd love to know because that is why I have started <a href="https://alloyx.co">AlloyX</a>**. It is designed to help you invest in gold easily, so that you can hedge your investments during a market downturn.
+<blockquote class="p-4">
+Would you invest in gold if the process was easier? Would you hedge your other investments by owning some?
+</blockquote>
+
+Would you invest in gold if the process was easier? Would you hedge your other investments by owning some? I'd love to know because that is why I have started <a href="https://alloyx.co">AlloyX</a>. It is designed to help you invest in gold easily, so that you can hedge your investments during a market downturn.
 
 Everyone should own a little bit of gold, millennials included.
 

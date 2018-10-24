@@ -18,6 +18,10 @@ h1, h2, h3, .h1, .h2, .h3 {
 
 p, ol, ul {
   color: $black-lightened;
+
+  strong {
+    color: $black;
+  }
 }
 
 mark {

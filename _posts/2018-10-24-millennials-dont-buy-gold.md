@@ -16,7 +16,7 @@ So why don't they buy gold? *Why don't you buy gold?*
 
 <h2 class="mt-5">It Is Too Difficult</h2>
 
-It is way too difficult. I should know. I'm a millennial, and I've tried. It is easier to purchase obscure cryptocurrencies like Dogecoin, than it is to invest in gold.
+It is way too difficult. I should know. I'm a millennial, and I've tried. It is easier to purchase obscure cryptocurrencies like Dogecoin than it is to invest in gold.
 
 * It's slow
 * It's expensive
@@ -63,7 +63,7 @@ I want to invest in gold to hedge my other investments. When the economy and mar
 Would you invest in gold if the process was easier? Would you hedge your other investments by owning some?
 </blockquote>
 
-Would you invest in gold if the process was easier? Would you hedge your other investments by owning some? I'd love to know because that is why I have started <a href="https://alloyx.co">AlloyX</a>. It is designed to help you invest in gold easily, so that you can hedge your investments during a market downturn.
+Would you invest in gold if the process was easier? Would you hedge your other investments by owning some? I'd love to know because that is why I have started <a href="https://alloyx.co">AlloyX</a>. It is designed to help you invest in gold easily so that you can hedge your investments during a market downturn.
 
 Everyone should own a little bit of gold, millennials included.
 

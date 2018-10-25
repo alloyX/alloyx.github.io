@@ -4,6 +4,7 @@ title: Millennials Don't Buy Gold
 author: Scott Motte
 hero: '/assets/images/posts/millennials-dont-buy-gold.png'
 og_image: '/assets/images/posts/millennials-dont-buy-gold.png'
+twitter_image: '/assets/images/posts/millennials-dont-buy-gold.png'
 og_description: "Millennials don't buy gold. And yet, they are probably the most sophisticated financial generation ever. In the same breath, they will understand and talk about how gold makes a great hedge."
 description: "Millennials don't buy gold. And yet, they are probably the most sophisticated financial generation ever. In the same breath, they will understand and talk about how gold makes a great hedge."
 twitter_description: "Millennials don't buy gold. And yet, they are probably the most sophisticated financial generation ever. In the same breath, they will understand and talk about how gold makes a great hedge."

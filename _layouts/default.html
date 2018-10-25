@@ -41,6 +41,12 @@
     {% else %}
       <meta name="twitter:description" content="Invest in gold, with your spare change. Try AlloyX free for 30 days." />
     {% endif %}
+    {% if page.twitter_image %}
+      <meta name="twitter:image" content="{{ page.twitter_image }}" />
+    {% else %}
+      <meta name="twitter:image" content="https://blog.alloyx.co/assets/images/metatags/og-image-home.png" />
+    {% endif %}
+
 
     <meta name="zone" content="gold" />
     <meta name="Referrer-Policy" content="same-origin" />
